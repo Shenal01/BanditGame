@@ -1,5 +1,5 @@
 # BanditGame
-This is all passwords for bandit that i have done.
+This is all passwords for bandit that I have done.
 
 BANDIT GAME LAB 01
 
